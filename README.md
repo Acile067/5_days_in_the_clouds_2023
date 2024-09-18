@@ -27,7 +27,6 @@ _(Optional)_ To set your own CSV file containing player data, simply replace the
 
 _(Optional)_ Another way to do this is by setting the `CSV_PLAYER_DATA` environment variable to the path of
 your file. For example:
-- Linux Bash: `export CSV_PLAYER_DATA=~/Downloads/MyPlayerData.csv; dotnet run`
 - Windows Powershell: `$env:CSV_PLAYER_DATA='C:/Downloads/MyPlayerData.csv'; dotnet run`
 
 ## CSV Data Format
@@ -97,3 +96,10 @@ HTTP/1.1 404 Not Found
 
 "Player not found"
 ```
+
+## Tests
+
+The dotnet CLI is required in order to run tests.
+
+- `cd ..`
+- `dotnet test`
