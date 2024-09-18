@@ -103,3 +103,7 @@ The dotnet CLI is required in order to run tests.
 
 - `cd ..`
 - `dotnet test`
+
+```
+Passed!  - Failed:     0, Passed:     5, Skipped:     0, Total:     5, Duration: 291 ms - Tests.dll (net8.0)
+```
