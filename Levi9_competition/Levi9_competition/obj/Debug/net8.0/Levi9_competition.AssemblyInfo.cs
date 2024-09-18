@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Levi9_competition")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8902bf18282a2aa9cfaee9a70acad3668ae2d00d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Levi9_competition")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Levi9_competition")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

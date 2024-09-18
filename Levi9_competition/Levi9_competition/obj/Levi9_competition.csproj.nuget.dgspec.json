@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acile\\Desktop\\5_days_in_the_clouds_2023\\Levi9_competition\\Levi9_competition\\Levi9_competition.csproj": {}
+    "C:\\Users\\acile\\Desktop\\asp_unit_testing\\5_days_in_the_clouds_2023\\Levi9_competition\\Levi9_competition\\Levi9_competition.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acile\\Desktop\\5_days_in_the_clouds_2023\\Levi9_competition\\Levi9_competition\\Levi9_competition.csproj": {
+    "C:\\Users\\acile\\Desktop\\asp_unit_testing\\5_days_in_the_clouds_2023\\Levi9_competition\\Levi9_competition\\Levi9_competition.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acile\\Desktop\\5_days_in_the_clouds_2023\\Levi9_competition\\Levi9_competition\\Levi9_competition.csproj",
+        "projectUniqueName": "C:\\Users\\acile\\Desktop\\asp_unit_testing\\5_days_in_the_clouds_2023\\Levi9_competition\\Levi9_competition\\Levi9_competition.csproj",
         "projectName": "Levi9_competition",
-        "projectPath": "C:\\Users\\acile\\Desktop\\5_days_in_the_clouds_2023\\Levi9_competition\\Levi9_competition\\Levi9_competition.csproj",
+        "projectPath": "C:\\Users\\acile\\Desktop\\asp_unit_testing\\5_days_in_the_clouds_2023\\Levi9_competition\\Levi9_competition\\Levi9_competition.csproj",
         "packagesPath": "C:\\Users\\acile\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acile\\Desktop\\5_days_in_the_clouds_2023\\Levi9_competition\\Levi9_competition\\obj\\",
+        "outputPath": "C:\\Users\\acile\\Desktop\\asp_unit_testing\\5_days_in_the_clouds_2023\\Levi9_competition\\Levi9_competition\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acile\\AppData\\Roaming\\NuGet\\NuGet.Config",
